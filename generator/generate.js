@@ -36,6 +36,7 @@ async function generateArticle() {
   const topicsPath = path.join(__dirname, '..', 'unused-topics.json');
   const contentDir = path.join(__dirname, '..', 'content');
 
+  fs.mkdirSync(contentDir, { recursive: true });
   const topics = JSON.parse(fs.readFileSync(topicsPath, 'utf-8'));
   const existingFiles = new Set(fs.readdirSync(contentDir));
 
