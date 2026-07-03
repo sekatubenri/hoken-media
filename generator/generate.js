@@ -48,7 +48,7 @@ async function generateArticle() {
 
   const message = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 4000,
+    max_tokens: 6000,
     messages: [{
       role: 'user',
       content: `あなたは保険比較メディア「${SITE.name}」の専門ライターです。
@@ -77,7 +77,9 @@ contentの要件:
   });
 
   const text = message.content[0].text.trim();
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
+  console.log('レスポンス先頭200文字:', text.slice(0, 200));
+  const cleaned = text.replace(/```json\s*/g, '').replace(/```\s*/g, '');
+  const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
   if (!jsonMatch) throw new Error('レスポンスにJSONが見つかりません');
 
   const article = JSON.parse(jsonMatch[0]);
