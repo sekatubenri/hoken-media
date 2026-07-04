@@ -11,6 +11,7 @@ const AFFILIATE_TOP = `
   <p style="font-weight:bold;color:#1e40af;margin:0 0 8px;">【PR】無料で最適な保険をプロに相談</p>
   <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
     <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+84BXW2+3S2C+5ZEMQ" rel="nofollow" style="display:inline-block;background:#2563eb;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ プロの意見も交えた初心者にやさしい保険選び【保険ランドリー】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B7T8W+84BXW2+3S2C+5ZEMQ" alt=""></li>
+    <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+8AVPJM+54PG+5YJRM" rel="nofollow" style="display:inline-block;background:#0f766e;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ 24時間365日対応・介護保険外のオーダーメイド介護サービス【イチロウ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B7T8W+8AVPJM+54PG+5YJRM" alt=""></li>
   </ul>
 </div>`;
 
