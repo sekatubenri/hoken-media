@@ -10,8 +10,7 @@ const AFFILIATE_TOP = `
 <div style="background:#eff6ff;border:2px solid #2563eb;border-radius:8px;padding:16px;margin:24px 0;">
   <p style="font-weight:bold;color:#1e40af;margin:0 0 8px;">【PR】無料で最適な保険をプロに相談</p>
   <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
-    <li><a href="https://px.a8.net/svt/ejp?a8mat=HOKEN_PLACEHOLDER_1" rel="nofollow" style="display:inline-block;background:#2563eb;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ 保険マンモス（無料FP相談）</a></li>
-    <li><a href="https://px.a8.net/svt/ejp?a8mat=HOKEN_PLACEHOLDER_2" rel="nofollow" style="display:inline-block;background:#0f766e;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ ほけんの窓口（全国店舗・無料相談）</a></li>
+    <li><a href="https://px.a8.net/svt/ejp?a8mat=4B7T8W+84BXW2+3S2C+5ZEMQ" rel="nofollow" style="display:inline-block;background:#2563eb;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ プロの意見も交えた初心者にやさしい保険選び【保険ランドリー】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B7T8W+84BXW2+3S2C+5ZEMQ" alt=""></li>
   </ul>
 </div>`;
 
