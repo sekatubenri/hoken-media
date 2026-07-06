@@ -72,12 +72,12 @@ SEOに最適化された保険情報記事を生成してください。
 }
 
 contentの要件:
-- 2500文字以上のHTML本文
-- h2見出しを5〜8個、h3も適宜使用
-- ul/ol/liリスト、tableを積極的に活用
+- 1500文字程度のHTML本文（簡潔にまとめること）
+- h2見出しを3〜5個
+- ul/liリスト、tableを活用
 - 具体的な保険料・保障額・比較表などを含める
-- 読者の疑問に答える実践的な内容
-- JSON文字列として正しくエスケープ（"は\\"、改行は\\n）`
+- JSON文字列として正しくエスケープ（"は\\"、改行は\\n）
+- 必ずJSON全体を完結させること（途中で切れないこと）`
     }],
   });
 
@@ -101,4 +101,19 @@ contentの要件:
   console.log(`完了: ${topic.filename}`);
 }
 
-generateArticle().catch(err => { console.error('エラー:', err.message); process.exit(1); });
+async function run() {
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      await generateArticle();
+      break;
+    } catch (err) {
+      console.error(`試行${attempt}回目失敗: ${err.message}`);
+      if (attempt === 3) {
+        console.error('3回失敗。このトピックをスキップします。');
+        process.exit(0);
+      }
+      await new Promise(r => setTimeout(r, 3000));
+    }
+  }
+}
+run();
