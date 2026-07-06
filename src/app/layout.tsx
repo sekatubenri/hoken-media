@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   },
   description: '生命保険・医療保険・自動車保険を徹底比較。保険料シミュレーション、おすすめ保険ランキング、賢い選び方まで完全網羅。',
   openGraph: { type: 'website', locale: 'ja_JP', siteName: '保険ナビ' },
+  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
