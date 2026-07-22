@@ -1,7 +1,7 @@
 import { getAllArticles } from '@/lib/articles'
 import type { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://hoken-media.vercel.app'
+const BASE_URL = 'https://hoken-select.shop'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles()
