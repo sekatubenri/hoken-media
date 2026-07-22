@@ -4,7 +4,7 @@ const path = require('path');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-const SITE = { name: '保険ナビ', url: 'https://hoken-select.shop' };
+const SITE = { name: '保険ナビ', url: 'https://hoken-select.com' };
 
 const AFFILIATE_TOP = `
 <div style="background:#eff6ff;border:2px solid #2563eb;border-radius:8px;padding:16px;margin:24px 0;">

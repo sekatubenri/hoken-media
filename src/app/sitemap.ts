@@ -1,7 +1,7 @@
 import { getAllArticles } from '@/lib/articles'
 import type { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://hoken-select.shop'
+const BASE_URL = 'https://hoken-select.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles()

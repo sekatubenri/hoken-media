@@ -3,7 +3,7 @@ import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://hoken-select.shop'),
+  metadataBase: new URL('https://hoken-select.com'),
   title: {
     default: '保険ナビ｜生命保険・医療保険・自動車保険の比較ガイド',
     template: '%s｜保険ナビ',
