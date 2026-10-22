@@ -1,152 +1,116 @@
 [
   {
-    "filename": "jidosha-hoken-compare.json",
-    "title": "自動車保険おすすめランキング2026年【保険料・補償内容比較】",
-    "category": "auto"
+    "filename": "insurance-types-for-beginners.json",
+    "title": "保険の種類をわかりやすく解説｜初心者が知るべき生命・医療・損害保険の基本",
+    "category": "beginner",
+    "keyword": "保険 種類 わかりやすく 初心者"
   },
   {
-    "filename": "hoken-what-is.json",
-    "title": "保険とは何か？初心者向けにわかりやすく解説",
-    "category": "beginner"
+    "filename": "life-vs-non-life-insurance.json",
+    "title": "生命保険と損害保険の違いとは？補償の仕組みと選び方を初心者向けに解説",
+    "category": "beginner",
+    "keyword": "生命保険と損害保険の違い"
   },
   {
-    "filename": "seimei-hoken-hitsuyo.json",
-    "title": "生命保険は必要か？独身・既婚・子持ち別に解説",
-    "category": "life"
+    "filename": "life-insurance-comparison-recommendation.json",
+    "title": "生命保険の比較推奨販売とは？保険ショップで損しないための知識と注意点",
+    "category": "beginner",
+    "keyword": "生命保険 比較推奨販売"
   },
   {
-    "filename": "term-insurance.json",
-    "title": "定期保険とは？収入保障保険との違いと選び方",
-    "category": "life"
+    "filename": "policyholders-protection-corporation.json",
+    "title": "生命保険会社が破綻したら？生命保険契約者保護機構の補償範囲をやさしく解説",
+    "category": "beginner",
+    "keyword": "生命保険契約者保護機構"
   },
   {
-    "filename": "whole-life-insurance.json",
-    "title": "終身保険のメリット・デメリット【貯蓄型vs掛け捨て比較】",
-    "category": "life"
+    "filename": "kyosai-vs-life-insurance.json",
+    "title": "県民共済と生命保険の違いは？保障内容・掛金・向いている人を徹底比較",
+    "category": "beginner",
+    "keyword": "県民共済 生命保険 違い"
   },
   {
-    "filename": "iryo-hoken-hitsuyo.json",
-    "title": "医療保険は必要か？公的保険で賄えるか徹底検証",
-    "category": "medical"
+    "filename": "life-insurance-review-50s.json",
+    "title": "50代の生命保険見直しポイント｜子の独立後に死亡保障を減らす手順と注意点",
+    "category": "life",
+    "keyword": "生命保険 見直し 50代 ポイント"
   },
   {
-    "filename": "nyuin-hoken.json",
-    "title": "入院費用はいくらかかる？入院保険の選び方と注意点",
-    "category": "medical"
+    "filename": "life-insurance-60s.json",
+    "title": "60代におすすめの生命保険2026｜葬儀費用・相続に備える選び方と保険料相場",
+    "category": "life",
+    "keyword": "生命保険 おすすめ 60代"
   },
   {
-    "filename": "cancer-hoken.json",
-    "title": "がん保険は必要か？選び方とおすすめ比較2026",
-    "category": "medical"
+    "filename": "life-insurance-for-women.json",
+    "title": "女性におすすめの生命保険2026｜独身・既婚・子育て期別の選び方と保障額",
+    "category": "life",
+    "keyword": "生命保険 おすすめ 女性"
   },
   {
-    "filename": "jidosha-hoken-nenrei.json",
-    "title": "自動車保険の保険料は年齢でどう変わる？20代・30代・40代別",
-    "category": "auto"
+    "filename": "medical-insurance-60s.json",
+    "title": "60代におすすめの医療保険2026｜保険料相場と加入前に確認すべき5つの点",
+    "category": "medical",
+    "keyword": "医療保険 おすすめ 60代"
   },
   {
-    "filename": "jidosha-hoken-nokku.json",
-    "title": "自動車保険の等級とは？ノンフリート等級の上げ方・下げ方",
-    "category": "auto"
+    "filename": "whole-life-medical-insurance-demerits.json",
+    "title": "終身医療保険のデメリットとは？定期型との比較で分かる向いている人・不向きな人",
+    "category": "medical",
+    "keyword": "終身 医療保険 デメリット"
   },
   {
-    "filename": "hoken-minaosu.json",
-    "title": "保険の見直しはいつすべき？タイミングと見直し手順",
-    "category": "beginner"
+    "filename": "insurance-after-cancer-diagnosis.json",
+    "title": "がんと診断されてから入れる保険はある？加入条件と選び方・保険料の目安を解説",
+    "category": "medical",
+    "keyword": "癌 と診断 され てから入れる保険"
   },
   {
-    "filename": "hoken-fp-soudan.json",
-    "title": "保険の無料相談はFPに頼むべき？注意点と活用法",
-    "category": "beginner"
+    "filename": "auto-insurance-review-check-sheet.json",
+    "title": "自動車保険の見直しチェックシート2026｜更新前に確認すべき補償と特約10項目",
+    "category": "auto",
+    "keyword": "自動車保険 見直し チェック シート"
   },
   {
-    "filename": "hoken-tax.json",
-    "title": "生命保険料控除で節税する方法【計算方法と申告手順】",
-    "category": "beginner"
+    "filename": "auto-insurance-price-increase-2026.json",
+    "title": "自動車保険は2026年も値上げ？保険料改定の理由と負担を抑える見直し方法",
+    "category": "auto",
+    "keyword": "自動車保険 2026年 値上げ"
   },
   {
-    "filename": "seimei-hoken-30dai.json",
-    "title": "30代が入るべき生命保険は？保障額の目安と選び方",
-    "category": "life"
+    "filename": "lawyer-fee-rider-necessity.json",
+    "title": "自動車保険の弁護士費用特約は必要か？補償範囲・重複の注意点と選び方を解説",
+    "category": "auto",
+    "keyword": "自動車保険弁護士費用特約必要か"
   },
   {
-    "filename": "seimei-hoken-40dai.json",
-    "title": "40代の生命保険見直しポイント【子どもの教育費・老後を考える】",
-    "category": "life"
+    "filename": "auto-insurance-usage-purpose.json",
+    "title": "自動車保険の使用目的の違い｜日常・レジャー、通勤・通学、業務の選び方と保険料",
+    "category": "auto",
+    "keyword": "自動車保険使用目的違い"
   },
   {
-    "filename": "dokushin-hoken.json",
-    "title": "独身者に保険は必要？本当に必要な保険だけを解説",
-    "category": "life"
+    "filename": "personal-injury-vs-passenger-injury.json",
+    "title": "人身傷害と搭乗者傷害の違いとは？自動車保険で両方必要かをわかりやすく解説",
+    "category": "auto",
+    "keyword": "自動車保険人身傷害と搭乗者傷害の違い"
   },
   {
-    "filename": "fufu-hoken.json",
-    "title": "夫婦で入る保険の考え方【共働き・専業主婦別の最適プラン】",
-    "category": "life"
+    "filename": "one-day-auto-insurance.json",
+    "title": "自動車保険の1日保険とは？友人や家族の車を借りる時の補償内容と申込方法",
+    "category": "auto",
+    "keyword": "自動車保険 1日保険"
   },
   {
-    "filename": "kodomo-hoken.json",
-    "title": "子どもに保険は必要？学資保険と医療保険の選び方",
-    "category": "life"
+    "filename": "auto-insurance-claim-or-not.json",
+    "title": "自動車保険は使う？使わない？等級ダウン後の保険料差額を計算して判断する方法",
+    "category": "auto",
+    "keyword": "自動車保険 使う 使わない 計算"
   },
   {
-    "filename": "gakushi-hoken.json",
-    "title": "学資保険おすすめランキング2026【返戻率比較】",
-    "category": "life"
-  },
-  {
-    "filename": "iryo-hoken-nyuin-nichisu.json",
-    "title": "医療保険の入院日数はどう選ぶ？60日型vs120日型の違い",
-    "category": "medical"
-  },
-  {
-    "filename": "iryo-hoken-tokuyaku.json",
-    "title": "医療保険の特約は必要か？主な特約の内容と選び方",
-    "category": "medical"
-  },
-  {
-    "filename": "iryo-hoken-women.json",
-    "title": "女性向け医療保険のおすすめ2026【女性特有の病気に備える】",
-    "category": "medical"
-  },
-  {
-    "filename": "seishin-hoken.json",
-    "title": "精神疾患・うつ病で医療保険はもらえる？条件と注意点",
-    "category": "medical"
-  },
-  {
-    "filename": "jidosha-hoken-first-car.json",
-    "title": "初めて車を持つ人の自動車保険の選び方【若者向け】",
-    "category": "auto"
-  },
-  {
-    "filename": "jidosha-hoken-accident.json",
-    "title": "自動車事故後の保険手続き完全ガイド【流れと注意点】",
-    "category": "auto"
-  },
-  {
-    "filename": "jidosha-hoken-teiki.json",
-    "title": "任意保険と自賠責保険の違い【両方必要な理由】",
-    "category": "auto"
-  },
-  {
-    "filename": "jidosha-hoken-benri.json",
-    "title": "ロードサービス付き自動車保険おすすめ比較2026",
-    "category": "auto"
-  },
-  {
-    "filename": "jidosha-hoken-net.json",
-    "title": "ネット自動車保険おすすめランキング2026【安い順比較】",
-    "category": "auto"
-  },
-  {
-    "filename": "hoken-simulator.json",
-    "title": "保険料シミュレーター活用法【必要保障額の計算方法】",
-    "category": "beginner"
-  },
-  {
-    "filename": "hoken-cancel.json",
-    "title": "保険を解約するとどうなる？解約返戻金と注意点",
-    "category": "beginner"
+    "filename": "auto-insurance-grade-transfer.json",
+    "title": "自動車保険の等級引継ぎのやり方｜家族間・他社への乗り換え時の条件と手順",
+    "category": "auto",
+    "keyword": "自動車保険 等級 引継ぎ やり方"
   }
 ]
